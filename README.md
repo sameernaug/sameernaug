@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sameer Naugariya 👋</h1>
+<h1 align="center">Hey there, I'm Sameer Naugariya 👋</h1>
 ---
 
 ## 🚀 About Me
