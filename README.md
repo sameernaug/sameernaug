@@ -1,4 +1,3 @@
-![Hand Wave](https://github.com/sameernaug/sameernaug/blob/main/assets/Hand%20Wave.gif)
 <h1 align="center">Hey there, I'm Sameer Naugariya 👋</h1>
 ---
 
@@ -9,73 +8,6 @@
 - 🎓 **B.Tech Student** | Enthusiastic about Computer Science fundamentals & system design
 - 🌱 Currently mastering **C++, DSA, and advanced problem-solving techniques**
 - ✨ Enjoy building unique projects & exploring new technologies
-
-<!-- 🔥 Neon Blue Moving Text Animation -->
-<div align="center">
-
-  <svg width="700" height="100" viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated titles">
-    <defs>
-      <!-- Neon glow effect -->
-      <filter id="neonGlow">
-        <feGaussianBlur stdDeviation="3" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-
-      <!-- Common text style -->
-      <style>
-        .title {
-          font: 700 28px/1.1 "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-          letter-spacing: 1px;
-        }
-      </style>
-    </defs>
-
-    <!-- 1) Aspiring Software Developer -->
-    <g filter="url(#neonGlow)" transform="translate(0,0)">
-      <text class="title" x="350" y="60" text-anchor="middle" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.6" opacity="0">
-        Aspiring Software Developer
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="16s" begin="0s" repeatCount="indefinite"/>
-      </text>
-      <animateTransform attributeName="transform" type="translate"
-        values="-60,0;60,0" dur="4s" begin="0s;16s" repeatCount="indefinite" />
-    </g>
-
-    <!-- 2) Full Stack Developer -->
-    <g filter="url(#neonGlow)" transform="translate(0,0)">
-      <text class="title" x="350" y="60" text-anchor="middle" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.6" opacity="0">
-        Full Stack Developer
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="16s" begin="4s" repeatCount="indefinite"/>
-      </text>
-      <animateTransform attributeName="transform" type="translate"
-        values="-60,0;60,0" dur="4s" begin="4s;20s" repeatCount="indefinite" />
-    </g>
-
-    <!-- 3) Problem Solver -->
-    <g filter="url(#neonGlow)" transform="translate(0,0)">
-      <text class="title" x="350" y="60" text-anchor="middle" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.6" opacity="0">
-        Problem Solver
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="16s" begin="8s" repeatCount="indefinite"/>
-      </text>
-      <animateTransform attributeName="transform" type="translate"
-        values="-60,0;60,0" dur="4s" begin="8s;24s" repeatCount="indefinite" />
-    </g>
-
-    <!-- 4) AI Enthusiast -->
-    <g filter="url(#neonGlow)" transform="translate(0,0)">
-      <text class="title" x="350" y="60" text-anchor="middle" fill="#00e5ff" stroke="#00e5ff" stroke-width="0.6" opacity="0">
-        AI Enthusiast
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1" dur="16s" begin="12s" repeatCount="indefinite"/>
-      </text>
-      <animateTransform attributeName="transform" type="translate"
-        values="-60,0;60,0" dur="4s" begin="12s;28s" repeatCount="indefinite" />
-    </g>
-  </svg>
-
-</div>
 
 ---
 
@@ -146,9 +78,3 @@
 ---
 
 💡 **"Stay consistent, keep coding, and success will follow!"** 🚀
-
-
----
-[![](https://visitcount.itsvg.in/api?id=sameernaug&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
